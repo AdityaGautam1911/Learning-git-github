@@ -7,7 +7,7 @@ public class factorial {
 		int n=sc.nextInt();
 		int fact=1;
 		if(n==0) {
-			System.out.println("factorial is--->1");
+			System.out.println("factorial is------>1");
 		}else {
 			for(int i=1;i<=n;i++) {
 				fact*=i;
